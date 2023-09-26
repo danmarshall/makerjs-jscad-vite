@@ -18,11 +18,11 @@
   },
   "homepage": "https://github.com/danmarshall/makerjs-jscad-vite#readme",
   "dependencies": {
+    "@jscad/csg": "^0.3.7",
     "@jscad/stl-serializer": "^0.1.0",
     "makerjs": "^0.18.0"
   },
   "devDependencies": {
-    "@jscad/csg": "^0.3.7",
     "typescript": "^5.2.2",
     "vite": "^4.4.9"
   }
