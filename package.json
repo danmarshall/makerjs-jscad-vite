@@ -1,0 +1,29 @@
+{
+  "name": "makerjs-jscad-vite",
+  "version": "1.0.0",
+  "description": "Sample of makerjs with jscad and vite",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmarshall/makerjs-jscad-vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmarshall/makerjs-jscad-vite/issues"
+  },
+  "homepage": "https://github.com/danmarshall/makerjs-jscad-vite#readme",
+  "dependencies": {
+    "@jscad/stl-serializer": "^0.1.0",
+    "makerjs": "^0.18.0"
+  },
+  "devDependencies": {
+    "@jscad/csg": "^0.3.7",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9"
+  }
+}
